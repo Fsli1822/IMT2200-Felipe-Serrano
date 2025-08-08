@@ -1,3 +1,3 @@
 # IMT2200-Felipe-Serrano 👁️👅👁️
 
-C:\Users\UsuarioCompuElite\Desktop\IMT2200-Felipe-Serrano\IMT2200\actividades\actividad 01\PoblacionRM_C2017_Serrano.jpg
+![PoblacionRM_C2017_Serrano](https://github.com/user-attachments/assets/e2c00f5d-a4a9-4586-b4c3-0d5707318970)
