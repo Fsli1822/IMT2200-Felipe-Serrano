@@ -21,8 +21,7 @@ Datos Randoms:
 Contacto:
 
 Correo UC: felipe.serrano@estudiante.uc.cl
-Discord: fsli.
-Instagram: Fsli._
 
+Discord: fsli.
 
 -Felipe Serrano
