@@ -6,14 +6,19 @@ Hola, este es mi repositorio de Introducción a Ciencia de Datos. Acá estaran t
 Datos Randoms:
 
 ⭐ Me gusta leer sobre astronomia 🌠
+
 ⭐ Tengo un perro salchicha llamado Milo
+
 ⭐ Me gustan los dinosaurios 🦕
+
 ⭐ Mi artista fav-Mora 🍇
+
 ⭐ Me envicio en los juegos de Supercell
 
 Contacto:
 
 Correo UC: felipe.serrano@estudiante.uc.cl
+
 Discord: fsli.
 
 -Felipe Serrano
